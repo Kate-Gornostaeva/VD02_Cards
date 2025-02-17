@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Клуб Простоквашино</title>
+</head>
+<body>
+    <h1>Добро пожаловать в клуб "Простоквашино"!</h1>
+    <h2>Знакомтесь с нашими участниками:</h2>
+    <div class="card">
+        <div class="image-wrapper">
+            <img src="img/photo1.jpg" alt="дядя Федор" class="user-image">
+        </div>
+        <h3>Фёдор Дмитриевич <br>("Дядя Фёдор")</h3>
+        <p>unclefedor@village.com</p>
+        <p>Москва</p>
+        <p>не в меру самостоятельный мальчик</p>
+
+    </div>
+    <div class="card">
+        <div class="image-wrapper">
+            <img src="img/photo2.jpg" alt="кот Матроскин" class="user-image">
+        </div>
+        <h3>Кот Матроскин <br>(фамилия такая)</h3>
+        <p>kiskiskis@village.com</p>
+        <p>Простоквашино</p>
+        <p>очень практичный кот, бизнесмен</p>
+    </div>
+    <div class="card">
+        <div class="image-wrapper">
+            <img src="img/photo3.jpg" alt="Шарик" class="user-image">
+        </div>
+        <h3> Шарик <br> (просто пёс)</h3>
+        <p>dogballoon@village.com</p>
+        <p>Простоквашино</p>
+        <p>фотоохотник-профессионал, зоозащитник</p>
+    </div>
+     <div class="card">
+        <div class="image-wrapper">
+            <img src="img/photo4.jpg" alt="Печкин ИИ" class="user-image">
+        </div>
+        <h3>Игорь Иванович <br>Печкин</h3>
+        <p>postman@vilage.com</p>
+        <p>Простоквашино</p>
+        <p>почтальон на пенсии, характер вредный</p>
+    </div>
+</body>
+</html>
+
+
