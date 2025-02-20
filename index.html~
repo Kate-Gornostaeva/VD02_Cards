@@ -24,9 +24,9 @@
             <img src="img/photo2.jpg" alt="кот Матроскин" class="user-image">
         </div>
         <h3>Кот Матроскин <br>(фамилия такая)</h3>
-        <p>kiskiskis@village.com</p>
+        <a href="mailto:kiskiskis@village.com">kiskiskis@village.com</a>
         <p>Простоквашино</p>
-        <p>очень практичный кот, бизнесмен</p>
+        <p>очень практичный кот, <br>бизнесмен</p>
     </div>
     <div class="card">
         <div class="image-wrapper">
@@ -44,7 +44,7 @@
         <h3>Игорь Иванович <br>Печкин</h3>
         <p>postman@vilage.com</p>
         <p>Простоквашино</p>
-        <p>почтальон на пенсии, характер вредный</p>
+        <p>почтальон на пенсии, характер больше не вредный</p>
     </div>
 </body>
 </html>
